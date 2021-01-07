@@ -35,7 +35,6 @@ function App() {
       </div>
       <div className="jobs-center">
         <div className="btn-container">
-          {}
           {jobs.map((item, index) => {
             return (
               <button
