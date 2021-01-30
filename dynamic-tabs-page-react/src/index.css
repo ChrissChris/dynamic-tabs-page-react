@@ -12,7 +12,6 @@ Variables
   --clr-primary-5: #2caeba;
   /* lighter shades of primary color */
   --clr-primary-6: hsl(185, 57%, 50%);
-  --clr-primary-7: hsl(184, 65%, 59%);
   --clr-primary-8: hsl(184, 80%, 74%);
   --clr-primary-9: hsl(185, 94%, 87%);
   --clr-primary-10: hsl(186, 100%, 94%);
@@ -259,6 +258,4 @@ Jobs
 .btn:hover {
   color: var(--clr-primary-1);
   background: var(--clr-primary-8);
-}
-.center-btn {
 }
